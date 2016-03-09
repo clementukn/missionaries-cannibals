@@ -1,0 +1,1 @@
+solution for missionaries and cannibals problem using A* (Greedy) algorithm
